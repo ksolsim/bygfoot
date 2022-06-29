@@ -16,3 +16,5 @@ stamp-h1
 config.*
 *.o
 src/bygfoot
+.DS_Store
+.vscode
